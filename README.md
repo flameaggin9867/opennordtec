@@ -1,6 +1,6 @@
 # Operació NordTec
 ## Objectiu
-# Mi nombre: ChatGPT
+# Mi nombre: Dani
 
 ## Git y GitHub
 
